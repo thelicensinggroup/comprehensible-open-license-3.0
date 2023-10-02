@@ -1,3 +1,3 @@
-# Ritchy Permissive License v4
+# Comprehensible Open License 3.0
 
-View at: https://thelicensinggroup.github.io/ritchey-permissive-license-v4
+View at: https://thelicensinggroup.github.io/comprehensible-open-license-3.0
