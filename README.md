@@ -1,3 +1,3 @@
-# Ritchy Permissive License v6
+# Ritchy Permissive License v5
 
-View at: https://thelicensinggroup.github.io/ritchey-permissive-license-v6
+View at: https://thelicensinggroup.github.io/ritchey-permissive-license-v5
